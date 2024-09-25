@@ -1,5 +1,5 @@
-export default function Home() {
+export default function PerformancePage() {
     return (
-        <div>Performance</div>
+        <div>Performance Page!</div>
     )
 }
